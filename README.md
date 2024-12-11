@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aleph729
-- 😊 I’m happy because this is mi first project
+- 😊 I’m happy because I do mi first project in github
 - 🌱 I’m currently learning html and css
 
 
